@@ -31,6 +31,7 @@ print(x)
 
 
 # CASTING
+# As an object-oriented language, Python uses classes to define data types.
 
 x = str(27)     # x will be '27'
 y = int(27)     # y will be 27
